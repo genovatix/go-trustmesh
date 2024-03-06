@@ -1,0 +1,19 @@
+syntax="proto3";
+
+package network;
+
+option go_package = "https://github.com/genovatix/trustmesh/network;proto";
+
+
+enum MessageType {
+  DEFAULT = 0;
+}
+
+message MessageRequest {
+
+}
+
+message MessageResponse {
+
+}
+
