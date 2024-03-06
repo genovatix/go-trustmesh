@@ -1,4 +1,4 @@
-### Enhanced NetworkAddress with Anonymized Geographic Locations
+# Enhanced NetworkAddress with Anonymized Geographic Locations
 
 ---
 
