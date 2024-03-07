@@ -1,4 +1,4 @@
-```markdown
+
 # TrustMesh: Next-Gen Future-Proof Decentralized Network
 
 Welcome to the TrustMesh GitHub Wiki, your comprehensive guide to navigating and contributing to the TrustMesh project. TrustMesh aims to be the backbone of a next-generation, future-proof decentralized network, serving as a parallel internet designed for privacy, security, and scalability, resistant to the emerging threats posed by quantum computing.
@@ -80,6 +80,3 @@ TrustMesh is open-source and freely available for use and modification under the
 ---
 
 TrustMesh is more than just a project; it's a vision for the future of the internet. Join us in building a more secure, decentralized, and user-centric digital world.
-```
-
-This Markdown document provides a structured overview for the TrustMesh project's GitHub Wiki, highlighting its ambition to create a decentralized network infrastructure that's secure, scalable, and quantum-resistant. Customize the placeholders (e.g., repository URLs, section links) as necessary to fit your project's specifics.
