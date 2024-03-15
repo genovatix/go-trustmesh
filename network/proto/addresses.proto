@@ -1,0 +1,24 @@
+syntax="proto3";
+
+package proto.address;
+
+option go_package = "github.com/genovatix/go-trustmesh/pb/address;pb/address";
+
+message AddressResponse {
+  string public_key=1;
+  string location=2;
+  string zkp=3;
+}
+
+message Addr {
+  string address =1;
+}
+
+message Location {
+  float lat=1;
+  float lon=2;
+  string commitment=3;
+}
+
+
+
